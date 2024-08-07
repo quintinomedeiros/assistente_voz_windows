@@ -1,12 +1,5 @@
-# Assistente de Virtual de Voz para Windows
-Assistente Virtual por voz no Windows para incrementar a acessibilidade, com abertura de programas e pastas por voz
+# Descrição de textos em imagens
+Fiz a seleção de outdoors com textos inusitados.
+Utilizei Copilot para realizar a transcrição dos textos com um excelente resultado.
 
-# Tecnologias empregadas
-Código em python para automatizar a abertura de aplicativos e pastas no windows utilizando comando de voz. Foram empregadas as bobliotecas
-- Pillow
-- SpeachRecognition
-- Tkinter
-- OS
-
-# Funcionamento
-Ao criar um atalho na área de trabalho, basta clicar sobre o link, em seguida irá ser aberto o assistente. Ao clicar em ouvir e falar o comando, o robô irá realizar a operação relacionada.
+![image](https://github.com/user-attachments/assets/1bcfb983-3407-408b-8c0e-1b0b4c2b590b)
